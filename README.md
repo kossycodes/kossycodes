@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**I'm Kosisochukwu**
+
+A Frontend Developer and Technical Writer, with a problem solving focus towards development of application utilizing enterprise level language to deliver solution.
+I love collaborating with other amazing developers globally to build amazing stuff.
+
+* You can contact me [kosisochukwu@gmail](mailto:kosisochukwuezeagu042@gmail.com?subject=Good day, Kosisochukwu)
+* [kosisochukwu@gmail.com](mailto:kosisochukwuezeagu042@gmail.com?subject=Good day, Kosisochukwu)
+
 <!--
 **kossycodes/kossycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
