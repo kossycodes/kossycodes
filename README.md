@@ -6,6 +6,9 @@ A Frontend Developer and Technical Writer, with a problem solving focus towards 
 I love collaborating with other amazing developers globally to build amazing stuff.
 
   - ✉️ You can contact me [Kosisochukwu@gmail.com](mailto:kosisochukwuezeagu042@gmail.com)
+  - 🤝 I'm open to offer, collaborating and contributing to projects 
+
+   * Twitter: [@kossycodes](https://twitter.com/kossycodes)
 
 
 <!--
